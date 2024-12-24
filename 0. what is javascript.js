@@ -1,0 +1,1 @@
+// Javascript is a high level programming language, that is widely use to create interactive effects with in web browses. A high level programming language is a human understandable language. It is commonly used for developing web & mobile applications.
